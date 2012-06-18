@@ -17,7 +17,7 @@ public class ListView_keep_selected_exampleActivity extends Activity {
         
         String[] stringArray = {"aaaa", "bbbb", "cccc", "ddd", "eee"};
         
-        lv.setAdapter(new ArrayAdapter<String>(this,
+        lv.setAdapter(new CustomAdapter<String>(this,
                 R.layout.list_item, stringArray));
 
     }
