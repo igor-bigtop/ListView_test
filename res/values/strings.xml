@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ListView_keep_selected_exampleActivity!</string>
+    <string name="app_name">ListView_keep_selected_example</string>
+
+</resources>
