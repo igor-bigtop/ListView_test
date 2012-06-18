@@ -13,7 +13,7 @@ public class ListView_keep_selected_exampleActivity extends Activity {
         setContentView(R.layout.main);
         
         ListView lv = (ListView)findViewById(R.id.listViewTest);
-        lv.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
+        //lv.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
         
         String[] stringArray = {"aaaa", "bbbb", "cccc", "ddd", "eee"};
         
